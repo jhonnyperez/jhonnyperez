@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jhonnyperez
 - 👀 I’m interested in Programming, Cyber-security and UI Design
 - 🌱 I’m currently learning Java, Python, Javascript, C and Swift
-- 💞️ I’m looking to collaborate on open-source projects
+- 💞️ I’m looking for software engineering opportunities!
 - 📫 How to reach me: jhonatan.perez@live.com
 
 <!---
